@@ -1,0 +1,12 @@
+C:\Users\Julian\Desktop\Nueva carpeta\MaterialSkin-master\MaterialSkinExample\bin\Debug\MaterialSkinExample.exe.config
+C:\Users\Julian\Desktop\Nueva carpeta\MaterialSkin-master\MaterialSkinExample\bin\Debug\MaterialSkinExample.exe
+C:\Users\Julian\Desktop\Nueva carpeta\MaterialSkin-master\MaterialSkinExample\bin\Debug\MaterialSkinExample.pdb
+C:\Users\Julian\Desktop\Nueva carpeta\MaterialSkin-master\MaterialSkinExample\bin\Debug\MaterialSkin.dll
+C:\Users\Julian\Desktop\Nueva carpeta\MaterialSkin-master\MaterialSkinExample\bin\Debug\MaterialSkin.pdb
+C:\Users\Julian\Desktop\Nueva carpeta\MaterialSkin-master\MaterialSkinExample\obj\Debug\MaterialSkinExample.csprojResolveAssemblyReference.cache
+C:\Users\Julian\Desktop\Nueva carpeta\MaterialSkin-master\MaterialSkinExample\obj\Debug\MaterialSkinExample.MainForm.resources
+C:\Users\Julian\Desktop\Nueva carpeta\MaterialSkin-master\MaterialSkinExample\obj\Debug\MaterialSkinExample.Properties.Resources.resources
+C:\Users\Julian\Desktop\Nueva carpeta\MaterialSkin-master\MaterialSkinExample\obj\Debug\MaterialSkinExample.csproj.GenerateResource.Cache
+C:\Users\Julian\Desktop\Nueva carpeta\MaterialSkin-master\MaterialSkinExample\obj\Debug\MaterialSkinExample.csproj.CoreCompileInputs.cache
+C:\Users\Julian\Desktop\Nueva carpeta\MaterialSkin-master\MaterialSkinExample\obj\Debug\MaterialSkinExample.exe
+C:\Users\Julian\Desktop\Nueva carpeta\MaterialSkin-master\MaterialSkinExample\obj\Debug\MaterialSkinExample.pdb

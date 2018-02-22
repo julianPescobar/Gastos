@@ -1,0 +1,14 @@
+C:\Users\Julian\Desktop\Nueva carpeta\Gastox\MaterialSkinExample\bin\Debug\MaterialSkinExample.exe.config
+C:\Users\Julian\Desktop\Nueva carpeta\Gastox\MaterialSkinExample\bin\Debug\MaterialSkinExample.exe
+C:\Users\Julian\Desktop\Nueva carpeta\Gastox\MaterialSkinExample\bin\Debug\MaterialSkinExample.pdb
+C:\Users\Julian\Desktop\Nueva carpeta\Gastox\MaterialSkinExample\bin\Debug\MaterialSkin.dll
+C:\Users\Julian\Desktop\Nueva carpeta\Gastox\MaterialSkinExample\bin\Debug\MaterialSkin.pdb
+C:\Users\Julian\Desktop\Nueva carpeta\Gastox\MaterialSkinExample\obj\Debug\Gastox.csprojResolveAssemblyReference.cache
+C:\Users\Julian\Desktop\Nueva carpeta\Gastox\MaterialSkinExample\obj\Debug\MaterialSkinExample.MainForm.resources
+C:\Users\Julian\Desktop\Nueva carpeta\Gastox\MaterialSkinExample\obj\Debug\MaterialSkinExample.Properties.Resources.resources
+C:\Users\Julian\Desktop\Nueva carpeta\Gastox\MaterialSkinExample\obj\Debug\Gastox.csproj.GenerateResource.Cache
+C:\Users\Julian\Desktop\Nueva carpeta\Gastox\MaterialSkinExample\obj\Debug\Gastox.csproj.CoreCompileInputs.cache
+C:\Users\Julian\Desktop\Nueva carpeta\Gastox\MaterialSkinExample\obj\Debug\MaterialSkinExample.exe
+C:\Users\Julian\Desktop\Nueva carpeta\Gastox\MaterialSkinExample\obj\Debug\MaterialSkinExample.pdb
+C:\Users\Julian\Desktop\Nueva carpeta\Gastox\MaterialSkinExample\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Julian\Desktop\Nueva carpeta\Gastox\MaterialSkinExample\bin\Debug\ES\System.Data.SqlServerCe.resources.dll
